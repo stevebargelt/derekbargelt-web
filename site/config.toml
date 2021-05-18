@@ -8,6 +8,18 @@ googleAnalytics = ""
 # Define how many posts should appear on a site
 paginate = 10
 canonifyurls = true
+[[menu.main]]
+  name = "Home"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "About me"
+  weight = -110
+  identifier = "about"
+  url = "/about"
+
 
 [params]
   description = "this is my description"
@@ -28,3 +40,4 @@ canonifyurls = true
   hideHUGOSupport = true
   [params.social]
     twitter = ""
+
