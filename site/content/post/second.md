@@ -5,43 +5,12 @@ title: Chemystery Playable Demo
 
 [Chemystery - playable demo](https://octavic.github.io/rat-adventure-build/)
 
-# The Pitch
+Chemystery was planned to be an educational game targeted towards a younger audience to help educate them about science, specifically chemistry. The demo our team produced over the course of the class is rough but contains most of the elements we were shooting for in the game. My particular role involved writing the dialogue as well as helping develop the overall story of the game. That said, it was a massive team effort to produce our demo in just a few weeks. I hope you enjoy.
 
-## Lab Rat
-
-Become Tesla, a rat stuck in a cage in Widdershins Labs--a scientific facility researching the
-world’s most extraordinary phenomena. One day, an experiment goes awry, mutating Tesla into a
-bizarre half-human, half-rat creature. Tesla seizes the chance to escape the cage, but Widdershins
-is a big place.
-
-## Running in the maze
-
-The game play is the escape of the lab. The player interacts with other characters to learn more
-about the story. While events unfold, the player learns more elements to solve puzzles to unlock
-more parts of the level/story. The story will feature the episodic storyline of the following:
-Escape the lab, The Sickening Sewers, The Dark Wood and Return to the Lab.
-
-##Friend or Foe
-The objective is to escape to freedom, Tesla will need to make friends with other fugitives,
-master the strange logic of chemical interactions that governs the lab, and somehow discover the
-secret to complete the transformation into a human!
-
-## Getting the Cheese
-
-On a broader scale this game aims to encourage learning. The chemistry aspect of the game
-allows players learn from interacting. Will the player be able to solve the science through
-experimentation to get to freedom, or will they fail and be stuck in the lab forever.
-
-## Elementize
-
-The core puzzle-solving mechanic in this point-and-click adventure requires
-the player to use the elementizer, using elements from the periodic table to
-manipulate the environment. The player gains access to new elements as
-they progress, increasing the number of potential solutions.
-
-## Cartoonistic
-
-The art will be 2d, with a retro cartoon style. The style is chosen to appeal to
-the main target audience of children.
+The controls are:
+W, A, S, D: Movement
+Q: Use your elementalizer
+E: Interact
+Number Keys: Select items in your inventory.
 
 [Chemystery - playable demo](https://octavic.github.io/rat-adventure-build/)
