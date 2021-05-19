@@ -1,6 +1,7 @@
 ---
 date: 2021-05-19T05:47:10-07:00
 title: Chemystery Playable Demo
+share: false
 ---
 
 Chemystery was planned to be an educational game targeted towards a younger audience to help educate them about science, specifically chemistry. The demo our team produced over the course of the class is rough but contains most of the elements we were shooting for in the game. My particular role involved writing the dialogue as well as helping develop the overall story of the game. That said, it was a massive team effort to produce our demo in just a few weeks. I hope you enjoy.
