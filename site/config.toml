@@ -27,7 +27,7 @@ canonifyurls = true
   author = "Derek Bargelt"
   authorlocation = "Seattle, WA"
   authorwebsite = "https://www.derekbargelt.com"
-  bio= "my bio"
+  bio= "Inspired Game Designer"
   logo = "images/logo.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
