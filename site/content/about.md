@@ -2,7 +2,7 @@
 date = "2021-04-27T12:17:00-07:00"
 draft = false
 title = "about"
-
+share = false
 +++
 
 ## Hi, I'm Derek
