@@ -1,5 +1,5 @@
 ---
-date: 2021-05-17T10:24:16-04:00
+date: 2021-05-19T08:19:10-07:00
 title: Chemystery Playable Demo
 ---
 
@@ -21,4 +21,4 @@ Number Keys: Select items in your inventory.
 
 [Chemystery Room Ideas](/docs/chem-RoomIdeas.pdf)
 
-[Chemystery Demo Dialog Script](chem-DemoDialogueScript.pdf)
+[Chemystery Demo Dialog Script](/docs/chem-DemoDialogueScript.pdf)
