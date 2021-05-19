@@ -1,7 +1,7 @@
 ---
 date: 2021-05-19T05:47:10-07:00
 title: Chemystery Playable Demo
-image: "/images/cover.jpg"
+image: "images/cover.jpg"
 share: false
 ---
 
