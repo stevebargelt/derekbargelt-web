@@ -8,10 +8,11 @@ Chemystery was planned to be an educational game targeted towards a younger audi
 ## Playable Demo
 
 The controls are:
-W, A, S, D: Movement
-Q: Use your elementalizer
-E: Interact
-Number Keys: Select items in your inventory.
+
+- W, A, S, D: Movement
+- Q: Use your elementalizer
+- E: Interact
+- Number Keys: Select items in your inventory.
 
 [Chemystery - playable demo](https://octavic.github.io/rat-adventure-build/)
 
